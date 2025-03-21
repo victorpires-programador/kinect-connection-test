@@ -7,9 +7,6 @@ Este é um projeto simples em C# com compilado/build que demonstra como testar a
 - [Recursos](#-recursos)
 - [Pré-requisitos](#-pré-requisitos)
 - [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
-- [Exemplo de Código](#-exemplo-de-código)
-- [Contribuição](#-contribuição)
 - [Licença](#-licença)
 
 ## 🚀 Recursos
