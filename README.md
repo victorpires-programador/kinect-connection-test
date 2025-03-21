@@ -1,6 +1,6 @@
 # Teste de Conexão com Kinect Xbox 360
 
-Este é um projeto simples em C# que demonstra como testar a conexão com o Kinect do Xbox 360 utilizando o SDK 1.8. O objetivo é servir como base para experimentos e aprendizado na integração do Kinect em aplicações .NET.
+Este é um projeto simples em C# com compilado/build que demonstra como testar a conexão com o Kinect do Xbox 360 utilizando o SDK 1.8. O objetivo é servir como base para experimentos e aprendizado na integração do Kinect em aplicações .NET.
 
 ## 📌 Sumário
 
