@@ -29,3 +29,7 @@ Antes de executar este projeto, certifique-se de ter instalado:
 
    ```bash
    git clone https://github.com/victorpires-programador/kinectconnectiontest.git
+   
+## 📜 Licença
+- Este projeto está licenciado sob a MIT License.
+Desenvolvido por Victor Pires 💻 🚀
