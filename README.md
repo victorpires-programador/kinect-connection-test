@@ -24,11 +24,11 @@ Antes de executar este projeto, certifique-se de ter instalado:
 
 - [Visual Studio](https://visualstudio.microsoft.com/) (recomendado 2015 ou superior)
 - .NET Framework 4.5 (ou superior)
-- [Kinect SDK 1.8](https://developer.microsoft.com/en-us/windows/kinect/)
+- [Kinect SDK 1.8]((https://www.microsoft.com/en-us/download/details.aspx?id=40278))
 
 ## 📥 Instalação
 
 1. **Clone o repositório**:
 
    ```bash
-   git clone [https://github.com/seu-usuario](https://github.com/victorpires-programador)/kinectconnectiontest.git
+   git clone [https://github.com/victorpires-programador/kinectconnectiontest.git]
