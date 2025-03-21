@@ -1,0 +1,10 @@
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\bin\Debug\KinectTest.exe.config
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\bin\Debug\KinectTest.exe
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\bin\Debug\KinectTest.pdb
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\bin\Debug\Microsoft.Kinect.dll
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\bin\Debug\Microsoft.Kinect.xml
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.AssemblyReference.cache
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.CoreCompileInputs.cache
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\obj\Debug\KinectTest.csproj.Up2Date
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\obj\Debug\KinectTest.exe
+C:\Users\GHOST\Desktop\KinectTest\KinectTest\obj\Debug\KinectTest.pdb
